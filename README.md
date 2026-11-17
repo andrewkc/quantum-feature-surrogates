@@ -41,12 +41,6 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### 6. Run the experiment
-
-```powershell
-python -m src.experiments.run_iris_baseline
-```
-
 ### Deactivate the environment
 
 ```powershell
